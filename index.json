@@ -32,11 +32,15 @@
         "items":[
             {
                 "name":"五笔092( 常规 )",
-                "url":"http://wubi.aardio.com/download/lex/ChsWubi98.min.lex.lzma"
+                "url":"https://raw.fastgit.org/free-150/092wb_wubilex/main/092wb.lex.lzma"
             },
             {
                 "name":"五笔092( 扩展 )",
-                "url":"http://wubi.aardio.com/download/lex/sun98.lex.lzma"
+                "url":"https://raw.fastgit.org/free-150/092wb_wubilex/main/092wbp.lex.lzma
+            },
+            {
+                "name":"五笔092K",
+                "url":"https://raw.fastgit.org/free-150/092wb_wubilex/main/092Kwb.lex.lzma"
             }
         ],
         "name":"五笔092"
