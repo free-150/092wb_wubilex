@@ -16,6 +16,7 @@
             {
                 "name":"QQ五笔86( 完整 )",
                 "url":"http://wubi.aardio.com/download/lex/qq86.lex.lzma"
+            },
         ],
         "name":"五笔86"
     },
@@ -29,10 +30,6 @@
                 "name":"五笔092( 扩展 )",
                 "url":"https://raw.fastgit.org/free-150/092wb_wubilex/main/092wbp.lex.lzma"
             },
-            {
-                "name":"五笔092K",
-                "url":"https://raw.fastgit.org/free-150/092wb_wubilex/main/092Kwb.lex.lzma"
-            }
         ],
         "name":"五笔092"
     },
