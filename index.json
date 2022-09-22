@@ -28,7 +28,7 @@
             },
             {
                 "name":"五笔092( 扩展 )",
-                "url":"http://wubi.aardio.com/download/lex/ChsWubi86.min.lex.lzma"
+                "url":"https://raw.fastgit.org/free-150/092wb_wubilex/main/093wb.lex.lzma"
             },
         ],
         "name":"五笔092"
