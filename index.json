@@ -2,6 +2,26 @@
     {
         "items":[
             {
+                "name":"微软五笔86( 单字 )",
+                "url":"http://wubi.aardio.com/download/lex/ChsWubi86.min.lex.lzma"
+            },
+            {
+                "name":"微软五笔86( 完整 )",
+                "url":"http://wubi.aardio.com/download/lex/ChsWubi86.lex.lzma"
+            },
+            {
+                "name":"QQ五笔86( 单字 )",
+                "url":"http://wubi.aardio.com/download/lex/qq86.min.lex.lzma"
+            },
+            {
+                "name":"QQ五笔86( 完整 )",
+                "url":"http://wubi.aardio.com/download/lex/qq86.lex.lzma"
+        ],
+        "name":"五笔86"
+    },
+    {
+        "items":[
+            {
                 "name":"五笔092( 常规 )",
                 "url":"https://raw.fastgit.org/free-150/092wb_wubilex/main/092wb.lex.lzma"
             },
