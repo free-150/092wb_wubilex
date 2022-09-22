@@ -44,31 +44,6 @@
     {
         "items":[
             {
-                "name":"五笔98( 单字 )",
-                "url":"http://wubi.aardio.com/download/lex/ChsWubi98.min.lex.lzma"
-            },
-            {
-                "name":"五笔98( 完整 )",
-                "url":"http://wubi.aardio.com/download/lex/ChsWubi98.lex.lzma"
-            },
-            {
-                "name":"QQ五笔98( 完整 )",
-                "url":"http://wubi.aardio.com/download/lex/qq98.lex.lzma"
-            },
-            {
-                "name":"昱琼词库98( 完整 )",
-                "url":"http://wubi.aardio.com/download/lex/yuqiong98.lex.lzma"
-            },
-            {
-                "name":"海峰词库98( 完整 )",
-                "url":"http://wubi.aardio.com/download/lex/sun98.lex.lzma"
-            }
-        ],
-        "name":"五笔98"
-    },
-    {
-        "items":[
-            {
                 "name":"新世纪GBK( 完整 )",
                 "url":"http://wubi.aardio.com/download/lex/06.lex.lzma"
             },
