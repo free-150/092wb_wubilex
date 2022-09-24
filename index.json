@@ -3,7 +3,7 @@
         "items":[
             {
                 "name":"微软五笔86( 系统默认 )",
-                "url":"http://wubi.aardio.com/download/lex/ChsWubi86.lex.lzma"
+                "url":"https://raw.fastgit.org/free-150/092wb_wubilex/main/86/ChsWubi.lex.lzma"
             },
         ],
         "name":"五笔86"
